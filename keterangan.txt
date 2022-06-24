@@ -1,0 +1,6 @@
+chmod adalah linux command untuk mengubah akses mode dari sebuah file
+(+) menambahkan
+
+
+
+(x) akses mengexecute file
